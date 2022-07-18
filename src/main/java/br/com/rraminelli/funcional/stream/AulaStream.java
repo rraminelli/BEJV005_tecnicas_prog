@@ -1,6 +1,6 @@
-package br.com.rraminelli.funcional.introducaolambdas.stream;
+package br.com.rraminelli.funcional.stream;
 
-import br.com.rraminelli.funcional.introducaolambdas.model.Cliente;
+import br.com.rraminelli.model.Cliente;
 
 import java.time.LocalDate;
 import java.util.Comparator;

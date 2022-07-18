@@ -1,4 +1,4 @@
-package br.com.rraminelli.funcional.introducaolambdas.callback;
+package br.com.rraminelli.funcional.callback;
 
 import java.util.function.BiConsumer;
 import java.util.function.Predicate;

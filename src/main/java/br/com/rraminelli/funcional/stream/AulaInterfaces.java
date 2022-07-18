@@ -1,11 +1,11 @@
-package br.com.rraminelli.funcional.introducaolambdas.stream;
+package br.com.rraminelli.funcional.stream;
 
 /*
     FINAL: https://www.baeldung.com/java-final-performance
  */
 
-import br.com.rraminelli.funcional.introducaolambdas.model.Animal;
-import br.com.rraminelli.funcional.introducaolambdas.model.Cliente;
+import br.com.rraminelli.model.Animal;
+import br.com.rraminelli.model.Cliente;
 
 import java.time.LocalDate;
 import java.util.function.*;

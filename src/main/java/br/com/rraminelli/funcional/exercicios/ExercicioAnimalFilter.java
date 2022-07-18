@@ -1,10 +1,7 @@
-package br.com.rraminelli.funcional.introducaolambdas.exercicios;
+package br.com.rraminelli.funcional.exercicios;
 
-import br.com.rraminelli.funcional.introducaolambdas.model.Animal;
-import br.com.rraminelli.funcional.introducaolambdas.model.Cliente;
+import br.com.rraminelli.model.Animal;
 
-import java.time.LocalDate;
-import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 import java.util.List;
 

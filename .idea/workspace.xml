@@ -4,29 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68b9d87d-cef2-4094-964f-4ca5a582a56d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/callback/Callback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/callback/FunctionalLambdas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/callback/ImprimirResponseCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/exercicios/ExercicioAnimalFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/exercicios/ExercicioClienteFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/exercicios/VerificadorAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/exercicios/VerificadorCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/model/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/stream/AulaInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/stream/AulaOptional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/stream/AulaStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/javatime/ResumoJavaTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/javatime/exercicios/CalculoIdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/javatime/exercicios/DataVencimentoParcela.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/javatime/exercicios/Feriados.java" afterDir="false" />
+    <list default="true" id="68b9d87d-cef2-4094-964f-4ca5a582a56d" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/EscritaArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/FileToPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/LeituraArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/LeituraArquivoCarros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/LerArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/OperacoesArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/model/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/model/Ordem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/regex/AulaRegex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/callback/Callback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/callback/Callback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/callback/FunctionalLambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/callback/FunctionalLambdas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/callback/ImprimirResponseCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/callback/ImprimirResponseCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/exercicios/ExercicioAnimalFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/exercicios/ExercicioAnimalFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/exercicios/ExercicioClienteFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/exercicios/ExercicioClienteFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/exercicios/VerificadorAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/exercicios/VerificadorAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/exercicios/VerificadorCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/exercicios/VerificadorCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/model/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/model/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/model/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/stream/AulaInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/stream/AulaInterfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/stream/AulaOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/optional/AulaOptional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/stream/AulaStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/stream/AulaStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/io/PrintWriter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/io/Writer.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/lang/Iterable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/nio/file/Files.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/nio/file/OpenOption.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/nio/file/StandardOpenOption.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/time/temporal/ChronoField.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/util/concurrent/atomic/AtomicReference.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/util/function/BiConsumer.java" root0="SKIP_INSPECTION" />
@@ -87,13 +94,13 @@
       <recent name="br.com.rraminelli.funcional.introducaolambdas.exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExercicioClienteFilter">
-    <configuration name="AulaInterfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.funcional.introducaolambdas.stream.AulaInterfaces" />
+  <component name="RunManager" selected="Application.AulaRegex">
+    <configuration name="AulaRegex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.regex.AulaRegex" />
       <module name="BEJV005_tecnicas_prog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.rraminelli.funcional.introducaolambdas.stream.*" />
+          <option name="PATTERN" value="br.com.rraminelli.regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioAnimalFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.funcional.introducaolambdas.exercicios.ExercicioAnimalFilter" />
+    <configuration name="EscritaArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.fileNIO.EscritaArquivo" />
       <module name="BEJV005_tecnicas_prog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.rraminelli.funcional.introducaolambdas.exercicios.*" />
+          <option name="PATTERN" value="br.com.rraminelli.fileNIO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioClienteFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.funcional.introducaolambdas.exercicios.ExercicioClienteFilter" />
+    <configuration name="LeituraArquivoCarros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.fileNIO.LeituraArquivoCarros" />
       <module name="BEJV005_tecnicas_prog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.rraminelli.funcional.introducaolambdas.exercicios.*" />
+          <option name="PATTERN" value="br.com.rraminelli.fileNIO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionalLambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.funcional.introducaolambdas.callback.FunctionalLambdas" />
+    <configuration name="LerArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.fileNIO.LerArquivo" />
       <module name="BEJV005_tecnicas_prog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.rraminelli.funcional.introducaolambdas.callback.*" />
+          <option name="PATTERN" value="br.com.rraminelli.fileNIO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.funcional.introducaolambdas.TesteFinal" />
+    <configuration name="OperacoesArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.fileNIO.OperacoesArquivo" />
       <module name="BEJV005_tecnicas_prog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.rraminelli.funcional.introducaolambdas.*" />
+          <option name="PATTERN" value="br.com.rraminelli.fileNIO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExercicioClienteFilter" />
-        <item itemvalue="Application.AulaInterfaces" />
-        <item itemvalue="Application.ExercicioAnimalFilter" />
-        <item itemvalue="Application.FunctionalLambdas" />
-        <item itemvalue="Application.TesteFinal" />
+        <item itemvalue="Application.AulaRegex" />
+        <item itemvalue="Application.br.com.rraminelli.fileNIO.LeituraArquivoCarros" />
+        <item itemvalue="Application.LerArquivo" />
+        <item itemvalue="Application.br.com.rraminelli.fileNIO.EscritaArquivo" />
+        <item itemvalue="Application.br.com.rraminelli.fileNIO.OperacoesArquivo" />
       </list>
     </recent_temporary>
   </component>
@@ -172,8 +179,20 @@
       <option name="presentableId" value="Default" />
       <updated>1657522600926</updated>
       <workItem from="1657522603116" duration="52123000" />
-      <workItem from="1657735005709" duration="11493000" />
+      <workItem from="1657735005709" duration="13731000" />
+      <workItem from="1657871418509" duration="7361000" />
+      <workItem from="1657907878024" duration="3036000" />
+      <workItem from="1657924352794" duration="6359000" />
+      <workItem from="1657972408109" duration="17822000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1657746964207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657746964207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +208,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

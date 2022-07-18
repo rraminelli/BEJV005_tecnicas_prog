@@ -1,11 +1,10 @@
-package br.com.rraminelli.funcional.introducaolambdas.exercicios;
+package br.com.rraminelli.funcional.exercicios;
 
-import br.com.rraminelli.funcional.introducaolambdas.model.Cliente;
+import br.com.rraminelli.model.Cliente;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 import java.util.List;
-import java.util.concurrent.atomic.AtomicReference;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;

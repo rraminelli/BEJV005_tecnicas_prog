@@ -1,4 +1,4 @@
-package br.com.rraminelli.funcional.introducaolambdas.model;
+package br.com.rraminelli.model;
 
 import java.time.LocalDate;
 

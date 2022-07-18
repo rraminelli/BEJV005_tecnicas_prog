@@ -1,4 +1,4 @@
-package br.com.rraminelli.funcional.introducaolambdas.callback;
+package br.com.rraminelli.funcional.callback;
 
 @FunctionalInterface
 public interface Callback {

@@ -1,11 +1,6 @@
-package br.com.rraminelli.funcional.introducaolambdas.callback;
+package br.com.rraminelli.funcional.callback;
 
-import java.util.Collection;
-import java.util.Iterator;
-import java.util.List;
-import java.util.ListIterator;
 import java.util.function.BiConsumer;
-import java.util.function.Consumer;
 
 public class FunctionalLambdas {
 
