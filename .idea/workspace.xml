@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68b9d87d-cef2-4094-964f-4ca5a582a56d" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/EscritaArquivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/FileToPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/LeituraArquivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/LeituraArquivoCarros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/LerArquivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/OperacoesArquivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/model/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/model/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/model/Ordem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/regex/AulaRegex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/callback/Callback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/callback/Callback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/callback/FunctionalLambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/callback/FunctionalLambdas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/callback/ImprimirResponseCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/callback/ImprimirResponseCallback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/exercicios/ExercicioAnimalFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/exercicios/ExercicioAnimalFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/exercicios/ExercicioClienteFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/exercicios/ExercicioClienteFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/exercicios/VerificadorAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/exercicios/VerificadorAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/exercicios/VerificadorCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/exercicios/VerificadorCliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/model/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/model/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/model/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/stream/AulaInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/stream/AulaInterfaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/stream/AulaOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/optional/AulaOptional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/introducaolambdas/stream/AulaStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/funcional/stream/AulaStream.java" afterDir="false" />
-    </list>
+    <list default="true" id="68b9d87d-cef2-4094-964f-4ca5a582a56d" name="Changes" comment="arquivos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +158,7 @@
       <workItem from="1657871418509" duration="7361000" />
       <workItem from="1657907878024" duration="3036000" />
       <workItem from="1657924352794" duration="6359000" />
-      <workItem from="1657972408109" duration="17822000" />
+      <workItem from="1657972408109" duration="18498000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1657746964207</created>
@@ -192,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657746964207</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="arquivos">
+      <created>1658178944007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658178944007</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +193,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="arquivos" />
+    <option name="LAST_COMMIT_MESSAGE" value="arquivos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
