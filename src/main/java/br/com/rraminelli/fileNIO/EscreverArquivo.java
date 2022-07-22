@@ -6,12 +6,11 @@ import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class EscritaArquivo {
+public class EscreverArquivo {
 
     public static void main(String[] args) throws  Exception{
 
