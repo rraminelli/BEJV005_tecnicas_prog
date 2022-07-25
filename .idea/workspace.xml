@@ -5,18 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68b9d87d-cef2-4094-964f-4ca5a582a56d" name="Changes" comment="arquivos">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/javatime/exercicios/TesteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/AulaThreads1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/AulaThreadsWaitNotify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/ExecutaTransformacaoArquivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/escrita/SaidaDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/escrita/SaidaDadosCarrosArquivoLetraD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/escrita/SaidaDadosCarrosArquivoLetraF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/leitura/EntradaDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/leitura/EntradaDadosCarrosArquivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/service/TransformacaoDadosService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/TesteRetornoFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/ThreadsFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/ThreadsPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/ThreadsScheduled.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/EscritaArquivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/fileNIO/EscreverArquivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/model/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/model/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/AulaThreadsWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/AulaThreadsWaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/escrita/SaidaDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/escrita/SaidaDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/escrita/SaidaDadosCarrosArquivoLetraD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/escrita/SaidaDadosCarrosArquivoLetraD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/escrita/SaidaDadosCarrosArquivoLetraF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/escrita/SaidaDadosCarrosArquivoLetraF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/leitura/EntradaDadosCarrosArquivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/leitura/EntradaDadosCarrosArquivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/service/TransformacaoDadosService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/arquivo/service/TransformacaoDadosService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +38,12 @@
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/io/PrintWriter.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/io/Writer.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/lang/Iterable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/lang/Runnable.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/nio/file/Files.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/nio/file/OpenOption.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/nio/file/StandardOpenOption.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/time/temporal/ChronoField.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/util/concurrent/Future.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/util/concurrent/atomic/AtomicInteger.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/util/concurrent/atomic/AtomicReference.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/util/function/BiConsumer.java" root0="SKIP_INSPECTION" />
@@ -84,13 +86,13 @@
       <recent name="br.com.rraminelli.funcional.introducaolambdas.exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AulaThreads1">
-    <configuration name="AulaRegex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.regex.AulaRegex" />
+  <component name="RunManager" selected="Application.ExecutaTransformacaoArquivos">
+    <configuration name="ExecutaTransformacaoArquivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.threads.arquivo.ExecutaTransformacaoArquivos" />
       <module name="BEJV005_tecnicas_prog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.rraminelli.regex.*" />
+          <option name="PATTERN" value="br.com.rraminelli.threads.arquivo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,21 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AulaThreads1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.threads.AulaThreads1" />
-      <module name="BEJV005_tecnicas_prog" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.rraminelli.threads.arquivo.escrita.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AulaThreadsWaitNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.threads.AulaThreadsWaitNotify" />
+    <configuration name="TesteRetornoFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.threads.TesteRetornoFuture" />
       <module name="BEJV005_tecnicas_prog" />
       <extension name="coverage">
         <pattern>
@@ -124,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.javatime.exercicios.TesteData" />
+    <configuration name="ThreadsFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.threads.ThreadsFuture" />
       <module name="BEJV005_tecnicas_prog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.rraminelli.javatime.exercicios.*" />
+          <option name="PATTERN" value="br.com.rraminelli.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +126,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="br.com.rraminelli.fileNIO.LerArquivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.fileNIO.LerArquivo" />
+    <configuration name="ThreadsPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.threads.ThreadsPool" />
       <module name="BEJV005_tecnicas_prog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.rraminelli.fileNIO.*" />
+          <option name="PATTERN" value="br.com.rraminelli.threads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadsScheduled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.rraminelli.threads.ThreadsScheduled" />
+      <module name="BEJV005_tecnicas_prog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.rraminelli.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AulaThreads1" />
-        <item itemvalue="Application.AulaThreadsWaitNotify" />
-        <item itemvalue="Application.TesteData" />
-        <item itemvalue="Application.AulaRegex" />
-        <item itemvalue="Application.br.com.rraminelli.fileNIO.LerArquivo" />
+        <item itemvalue="Application.ExecutaTransformacaoArquivos" />
+        <item itemvalue="Application.TesteRetornoFuture" />
+        <item itemvalue="Application.ThreadsFuture" />
+        <item itemvalue="Application.ThreadsScheduled" />
+        <item itemvalue="Application.ThreadsPool" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +178,7 @@
       <workItem from="1657972408109" duration="24171000" />
       <workItem from="1658318764480" duration="3857000" />
       <workItem from="1658390515339" duration="17180000" />
-      <workItem from="1658512651225" duration="11121000" />
+      <workItem from="1658512651225" duration="38040000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1657746964207</created>
@@ -199,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658179063125</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="arquivos">
+      <created>1658526750695</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658526750695</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +237,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/br/com/rraminelli/javatime/exercicios/CalculoIdade.java</url>
           <line>70</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/ThreadsPool.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/rraminelli/threads/ThreadsPool.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

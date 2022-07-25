@@ -4,6 +4,6 @@ import java.util.List;
 
 public interface SaidaDados<T> {
 
-    void escreverArquivo(List<T> linhas);
+    String escreverArquivo(List<T> linhas);
 
 }
